@@ -1,0 +1,24 @@
+{
+  "name": "bus",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "global": "^4.4.0",
+    "honkit": "^6.0.2",
+    "karma-coverage": "^2.2.1",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-typescript": "^7.26.0",
+    "@types/jest": "^29.5.14",
+    "babel-jest": "^29.7.0",
+    "jest-preset-angular": "^14.5.0",
+    "ts-jest": "^29.2.5"
+  }
+}
